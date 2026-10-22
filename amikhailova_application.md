@@ -1,8 +1,12 @@
-# [Mikhailova Alena] - "EventReminder"
+# Михайлова Алёна - "EventReminder"
 
-**Группа:** 10И5, Лицей НИУ ВШЭ
-**Электронная почта:** [aamikhaylova_23@edu.hse.ru]
-**Telegram:** [Alenka17_24]
+**Группа:** 10И5
+
+**Электронная почта:** aamikhaylova_23@edu.hse.ru
+
+**Telegram:** Alenka17_24
+
+[EventReminder]
 
 ---
 
