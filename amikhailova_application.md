@@ -6,7 +6,7 @@
 
 **Telegram:** Alenka17_24
 
-[EventReminder]
+[Ticket Wave]
 
 ---
 
