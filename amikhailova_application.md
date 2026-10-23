@@ -1,6 +1,6 @@
 # Михайлова Алёна - "Ticket Wave"
 
-<img width="124" height="124" alt="9C5CFC37-5B2C-4887-B97A-5916272F5000" src="https://github.com/user-attachments/assets/078775c9-6732-43ec-8ab0-5c858d39e4b3" />
+<img width="150" height="150" alt="9C5CFC37-5B2C-4887-B97A-5916272F5000" src="https://github.com/user-attachments/assets/078775c9-6732-43ec-8ab0-5c858d39e4b3" />
 
 **Группа:** 10И5
 
