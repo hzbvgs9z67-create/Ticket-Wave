@@ -16,7 +16,7 @@
 Занятые люди часто забывают о старте продаж билетов на мероприятия (театр, балет, спорт) из-за разрозненности афиш, и в итоге билеты достаются другим или дорожают. Опрос подтвердил актуальность проблемы. (Сылка на опрос: https://forms.gle/3Nh4rjEnSSi7YcEd6)
 ⬇️
 
-<img width="552" height="255" alt="Снимок экрана 2026-10-22 в 22 57 10" src="https://github.com/user-attachments/assets/d9ab1205-96cb-4f6b-a6ef-2bc219034d39" />
+<img width="554" height="254" alt="Снимок экрана 2026-10-23 в 10 48 43" src="https://github.com/user-attachments/assets/b6b0dfa0-bc8a-4f52-904c-fc3d05b98cd3" />
 
 
 
